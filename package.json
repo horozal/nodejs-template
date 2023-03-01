@@ -1,5 +1,5 @@
 {
-  "name": "event-driven-nodejs-template",
+  "name": "nodejs-template",
   "version": "0.0.0",
   "description": "",
   "main": "app/main.js",
