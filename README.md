@@ -1,2 +1,2 @@
-# event-driven-nodejs
-Repository template for an event-driven architecture in Node.js
+# nodejs-template
+Repository template for a project in Node.js
