@@ -1,2 +1,2 @@
 # nodejs-template
-Repository template for a project in Node.js
+Repository template for a Node.js project
